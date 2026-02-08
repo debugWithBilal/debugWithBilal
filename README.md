@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi 👋 I'm Mohammad Bilal
 
-<!--
-**debugWithBilal/debugWithBilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student (SPPU)  
+💻 Interested in Machine Learning, Data Analytics & Cloud  
+🌱 Currently building ML projects and improving problem-solving skills  
 
-Here are some ideas to get you started:
+### 🔥 Featured Project
+🚗 **Car Price Prediction**  
+End-to-end machine learning project with Streamlit deployment  
+👉 https://github.com/debugWithBilal/car-price-prediction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Python
+- Machine Learning
+- Pandas, NumPy
+- SQL
+- Streamlit
+- Git & GitHub
+
